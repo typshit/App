@@ -132,5 +132,3 @@ public class VMDetection
         return cpuInfo;
     }
 }
-
-
